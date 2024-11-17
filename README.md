@@ -8,7 +8,7 @@
 
 
 
-<img align="right" width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/box.gif" />  
+<!-- <img align="right" width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/box.gif" /> !-->  
 
 
 <div>
