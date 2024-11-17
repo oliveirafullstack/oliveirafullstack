@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/emmanuelOliveira.gif" /><br>
-</div>
-
 ## Sobre Min 
 
  
