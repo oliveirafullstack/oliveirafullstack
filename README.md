@@ -13,10 +13,8 @@
 
 <div>
   <ul>
-<li>	Olá,  que bom te ver por Aqui 🖖, sou um profissional em transição de carreira com Experiência em Gestão de Negócios para Desenvolvedor Full Stack Python.</li>
-<li>Atualmente, estou iniciando minha formação em Python, o que complementa os sólidos conhecimentos que já adquiri com o Eco Sistema JavaScript.</li>	
+<li>	Olá,  que bom te ver por Aqui 🖖, sou um profissional em transição de carreira com Experiência em Gestão de Negócios, focado em trabalho em equipe e resoluçào de problemas.</li>
 <li>Tenho como objetivo aproveitar o máximo de minha expertise em gestão para colaborar em projetos que não só envolvem soluções técnicas, mas também o entendimento de como essas soluções impactam os objetivos de um negócio.</li>
-
 </ul>
   </div>                 
 
