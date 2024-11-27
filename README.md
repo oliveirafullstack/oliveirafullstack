@@ -1,14 +1,12 @@
+![bn-ofs](https://github.com/user-attachments/assets/6ed30fda-afaf-4bc9-90eb-741146497047)
 
-![ofs-banner](https://github.com/user-attachments/assets/bd98fae7-dc10-4e14-9c87-35d03ac47433)
-
-## Sobre Min 
 
   <div align="left">
 <img src="https://komarev.com/ghpvc/?username=oliveirafullstack&color=yellow" alt="Profile views" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/oliveirafullstack">
   </div>
 
-
+## Sobre Min
 
 <!-- <img align="right" width="350" src="https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/box.gif" /> !-->  
 
